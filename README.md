@@ -1,2 +1,2 @@
 # Sushii
-https://kafil-kawsar77.github.io/Sushii/
+https://kafilkawsar.github.io/Sushii/
